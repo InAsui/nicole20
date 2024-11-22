@@ -92,6 +92,14 @@ body {
     text-align: center;
     width: 400px;
 }
+.contenido-modal {
+    background-color: #b1ded8;
+    border-radius: 20px;
+    padding: 40px;
+    text-align: center;
+    width: 400px;
+}
+
 
 .logo-modal {
     max-width: 200px;
@@ -274,7 +282,11 @@ body.modo-oscuro {
 }
 
 .contenido-modal {
-    background-color: white;
+    background-color: #white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+.contenido-modal {
+    background-color: #b1ded8;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }
 
